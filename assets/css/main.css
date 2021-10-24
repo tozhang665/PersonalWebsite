@@ -2042,7 +2042,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: "Open Sans", Helvetica, sans-serif;
+			font-family: "Font Awesome 5 Brands";
 		}
 
 		.icon.major {

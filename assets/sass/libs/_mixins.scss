@@ -22,10 +22,10 @@
 		text-transform: none !important;
 
 		@if ($category == brands) {
-			font-family: "Open Sans", Helvetica, sans-serif;
+			font-family: "Font Awesome 5 Brands";
 		}
 		@elseif ($category == solid) {
-			font-family: "Open Sans", Helvetica, sans-serif;
+			font-family: "Font Awesome 5 Brands";
 			font-weight: 900;
 		}
 		@else {
